@@ -1,0 +1,6 @@
+{
+  "name": "Live Anime AI Waifu",
+  "description": "Interactive real-time anime AI companion powered by Gemini 3.1 Live Audio streaming, 3D VRM rendering, procedural music, and real-time bidirectional voice conversations.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
